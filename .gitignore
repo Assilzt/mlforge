@@ -8,3 +8,5 @@ __pycache__/
 data/
 result/
 .DS_Store
+
+*.egg-info/
