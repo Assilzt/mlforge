@@ -1,0 +1,2 @@
+[console_scripts]
+mlforge = mlforge_core.cli:main
