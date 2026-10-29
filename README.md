@@ -1,5 +1,7 @@
 # MLForge
 
+[![CI](https://github.com/Assilzt/mlforge/actions/workflows/ci.yml/badge.svg)](https://github.com/Assilzt/mlforge/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
+
 **Transparent, reproducible tabular ML baseline workbench.**
 
 MLForge is an open-source MVP for turning a CSV or Excel table into a documented machine-learning baseline. It profiles the data, detects a classification or regression task, compares a small set of scikit-learn pipelines with cross-validation, evaluates the winner once on a hold-out set, and exports a portable model, predictions, and JSON report.
